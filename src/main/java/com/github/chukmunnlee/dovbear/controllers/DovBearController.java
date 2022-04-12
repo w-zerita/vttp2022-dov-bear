@@ -1,15 +1,11 @@
 package com.github.chukmunnlee.dovbear.controllers;
 
-import java.security.SecureRandom;
 import java.util.Collections;
 import java.util.LinkedList;
 import java.util.List;
-import java.util.Random;
-import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
 import com.github.chukmunnlee.dovbear.CliOption;
-import com.github.chukmunnlee.dovbear.Constants;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

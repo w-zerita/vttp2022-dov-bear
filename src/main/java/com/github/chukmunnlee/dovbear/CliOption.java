@@ -7,11 +7,9 @@ import org.springframework.web.filter.ServletContextRequestLoggingFilter;
 
 import static com.github.chukmunnlee.dovbear.Constants.*;
 
-import java.util.Date;
 import java.util.List;
 import java.util.Objects;
 import java.util.Optional;
-import java.util.logging.Logger;
 
 @Component
 public class CliOption {
